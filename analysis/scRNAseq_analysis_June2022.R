@@ -299,7 +299,7 @@ DotPlot(merge.velo.Seurat, features = heatmap_genes,  scale.min=0, scale.max = 1
 ## ------------- Ligand Receptor Analysis -------------
 
 # Ligand Receptor database from Ramilowski 2015 (total of 2422 pairs)
-dat_lr <- data.table::fread(" fantom5_LR_all.txt") %>%
+dat_lr <- data.table::fread("fantom5_LR_all.txt") %>%
   filter(Pair.Evidence %in% c("literature supported","putative"))
 
 # Average gene expression in the single cell clusters
