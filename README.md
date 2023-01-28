@@ -7,6 +7,6 @@ Zinger Yang Loureiro, Shannon Joyce, Javier Solivan-Rivera, Anand Desai, Pantos 
 
 
 ``` 
-The full analysis code for this study will be made available in this repository upon publication of the manuscript.
+Manuscript in revision
 ```
  
